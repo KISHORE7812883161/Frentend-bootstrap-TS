@@ -35,8 +35,11 @@ Jobie is a responsive job portal website built using Bootstrap 5. It showcases v
 - `TODO.md`: Project todo list (if applicable).
 
 ## Screenshots
+<img width="1891" height="867" alt="Screenshot 2026-01-21 123932" src="https://github.com/user-attachments/assets/6ca71252-a82e-422a-81ce-30ea9f8782f1" />
+<img width="1890" height="847" alt="Screenshot 2026-01-21 123959" src="https://github.com/user-attachments/assets/4ef292dd-a235-4d95-bf10-3ac50e4d4e56" />
+<img width="1898" height="867" alt="Screenshot 2026-01-21 124032" src="https://github.com/user-attachments/assets/9c7a808f-d989-48d9-8dea-bddef9d0c3fa" />
 
-(Add screenshots here if available, e.g., ![Jobie Homepage](screenshot.png))
+
 
 ## Contributing
 
